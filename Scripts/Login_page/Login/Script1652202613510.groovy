@@ -66,4 +66,5 @@ if (WebUI.verifyElementPresent(Input_emailField, 5)) {
 } else {
 	KeywordUtil.markFailed('User is not on creator portal')
 }
+1
 
